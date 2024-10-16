@@ -7,8 +7,8 @@
 <body>
     <header>
         <h1>Lê Thế Bảo</h1>
-        <img src="icon-la-gi.jpg" alt="Ảnh đại diện">
-    </header>p
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Favatarsa011%2Fhotboy%2F&psig=AOvVaw3hSynmSbpeXpu1SP0e_WuO&ust=1729138479740000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjrtviEkokDFQAAAAAdAAAAABAS.jpg" alt="Ảnh đại diện">
+    </header>
     <main>
         <section>
             <h2>Thông tin cơ bản</h2>
