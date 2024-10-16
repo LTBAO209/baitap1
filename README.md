@@ -3,13 +3,12 @@
 <html>
 <head>
     <title>Thông tin cá nhân</title>
-    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header>
-        <h1>Nguyễn Văn A</h1>
-        <img src="avatar.jpg" alt="Ảnh đại diện">
-    </header>
+        <h1>Lê Thế Bảo</h1>
+        <img src="icon-la-gi.jpg" alt="Ảnh đại diện">
+    </header>p
     <main>
         <section>
             <h2>Thông tin cơ bản</h2>
